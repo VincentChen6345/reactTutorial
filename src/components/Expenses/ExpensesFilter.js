@@ -23,7 +23,7 @@ const ExpensesFilter = (props) => {
 
 export default ExpensesFilter;
 
-/*Challenge
-1. when user selects new year from dropdown, listen to change, the selected year value should be forwarded to expenses component
-2. in expenses component, store it in a state. 
+/*Challenge - make the filter work
+hint 1- you can filter arrays with the filter method
+hint 2- you should not change overal expenses array, derive a new array based on the full expenses array
 */
